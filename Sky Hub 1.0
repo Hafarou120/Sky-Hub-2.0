@@ -101,7 +101,7 @@ syn.run_secure_lua("0NUgioIvN/ZEY1dRPBgXgx93bAj8dopL.cUjg79aTYv++EplTkcckvXwp88u
 local Button = Tab:CreateButton({
 	Name = "LumberTycoon2",
 	Callback = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/LT2"))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/butter-hub/main/butters%20recode-obfuscated.lua'))()
 	end,
 })
 
